@@ -24,3 +24,10 @@ Leetcode problems solution
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Amit-0905/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Amit-0905/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+<!---LeetCode Topics End-->
