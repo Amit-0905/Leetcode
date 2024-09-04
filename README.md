@@ -29,6 +29,7 @@ Leetcode problems solution
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amit-0905/Leetcode/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Amit-0905/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0445-add-two-numbers-ii](https://github.com/Amit-0905/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## String
@@ -46,10 +47,12 @@ Leetcode problems solution
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amit-0905/Leetcode/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Amit-0905/Leetcode/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amit-0905/Leetcode/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/Amit-0905/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
