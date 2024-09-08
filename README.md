@@ -35,10 +35,12 @@ Leetcode problems solution
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amit-0905/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Amit-0905/Leetcode/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amit-0905/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Amit-0905/Leetcode/tree/master/0044-wildcard-matching) |
 ## Greedy
 |  |
@@ -58,4 +60,8 @@ Leetcode problems solution
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Amit-0905/Leetcode/tree/master/0445-add-two-numbers-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amit-0905/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
