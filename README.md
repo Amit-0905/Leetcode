@@ -30,6 +30,7 @@ Leetcode problems solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amit-0905/Leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Amit-0905/Leetcode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Amit-0905/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0445-add-two-numbers-ii](https://github.com/Amit-0905/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## String
