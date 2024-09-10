@@ -31,12 +31,14 @@ Leetcode problems solution
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amit-0905/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Amit-0905/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Amit-0905/Leetcode/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Amit-0905/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0445-add-two-numbers-ii](https://github.com/Amit-0905/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amit-0905/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Amit-0905/Leetcode/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/Amit-0905/Leetcode/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
@@ -65,4 +67,8 @@ Leetcode problems solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amit-0905/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Amit-0905/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
