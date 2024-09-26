@@ -76,4 +76,12 @@ Leetcode problems solution
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amit-0905/Leetcode/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Amit-0905/Leetcode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Amit-0905/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
