@@ -16,7 +16,6 @@ public:
                 num2=num2^nums[i];
             }
         }
-        vector<int>ans={num1,num2};
-        return ans;
+        return {num1,num2};
     }
 };
