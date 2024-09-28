@@ -32,4 +32,4 @@ public:
     }
 };
 
-// instead of using while to transverse duplicate we can use set also
+// instead of using whiloe to transverse duplicate we can use set also
