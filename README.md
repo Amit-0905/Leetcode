@@ -68,6 +68,7 @@ Leetcode problems solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amit-0905/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Amit-0905/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ Leetcode problems solution
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Amit-0905/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amit-0905/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Amit-0905/Leetcode/tree/master/0260-single-number-iii) |
@@ -99,4 +101,8 @@ Leetcode problems solution
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Amit-0905/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
