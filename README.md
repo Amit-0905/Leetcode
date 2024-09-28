@@ -87,6 +87,7 @@ Leetcode problems solution
 | ------- |
 | [0015-3sum](https://github.com/Amit-0905/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Amit-0905/Leetcode/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/Amit-0905/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Amit-0905/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amit-0905/Leetcode/tree/master/0137-single-number-ii) |
@@ -110,4 +111,12 @@ Leetcode problems solution
 | ------- |
 | [0015-3sum](https://github.com/Amit-0905/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Amit-0905/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Amit-0905/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
