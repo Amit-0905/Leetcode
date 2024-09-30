@@ -76,6 +76,7 @@ Leetcode problems solution
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Amit-0905/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Amit-0905/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amit-0905/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Amit-0905/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Trie
@@ -92,6 +93,7 @@ Leetcode problems solution
 | [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Amit-0905/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amit-0905/Leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Amit-0905/Leetcode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Amit-0905/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Amit-0905/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amit-0905/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -115,6 +117,7 @@ Leetcode problems solution
 | ------- |
 | [0015-3sum](https://github.com/Amit-0905/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Amit-0905/Leetcode/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -123,4 +126,12 @@ Leetcode problems solution
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amit-0905/Leetcode/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Amit-0905/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Amit-0905/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
