@@ -32,6 +32,7 @@ Leetcode problems solution
 | [0002-add-two-numbers](https://github.com/Amit-0905/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Amit-0905/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Amit-0905/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Amit-0905/Leetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Amit-0905/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0445-add-two-numbers-ii](https://github.com/Amit-0905/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## String
@@ -90,6 +91,7 @@ Leetcode problems solution
 | [0027-remove-element](https://github.com/Amit-0905/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Amit-0905/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Amit-0905/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Amit-0905/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amit-0905/Leetcode/tree/master/0137-single-number-ii) |
