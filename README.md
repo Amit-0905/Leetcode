@@ -72,6 +72,7 @@ Leetcode problems solution
 | [0015-3sum](https://github.com/Amit-0905/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Amit-0905/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Amit-0905/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ Leetcode problems solution
 | [0054-spiral-matrix](https://github.com/Amit-0905/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Amit-0905/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Amit-0905/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amit-0905/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Amit-0905/Leetcode/tree/master/0169-majority-element) |
@@ -119,6 +121,7 @@ Leetcode problems solution
 | ------- |
 | [0015-3sum](https://github.com/Amit-0905/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amit-0905/Leetcode/tree/master/0169-majority-element) |
 ## Matrix
 |  |
