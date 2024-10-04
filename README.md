@@ -101,6 +101,7 @@ Leetcode problems solution
 | [0260-single-number-iii](https://github.com/Amit-0905/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Amit-0905/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amit-0905/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0724-find-pivot-index](https://github.com/Amit-0905/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Amit-0905/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Amit-0905/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Amit-0905/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -141,4 +142,8 @@ Leetcode problems solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amit-0905/Leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Amit-0905/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
