@@ -92,6 +92,7 @@ Leetcode problems solution
 | ------- |
 | [0015-3sum](https://github.com/Amit-0905/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Amit-0905/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Amit-0905/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Amit-0905/Leetcode/tree/master/0066-plus-one) |
@@ -118,6 +119,7 @@ Leetcode problems solution
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Amit-0905/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Amit-0905/Leetcode/tree/master/0792-binary-search) |
