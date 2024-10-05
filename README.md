@@ -95,6 +95,7 @@ Leetcode problems solution
 | [0027-remove-element](https://github.com/Amit-0905/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Amit-0905/Leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Amit-0905/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Amit-0905/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
@@ -123,6 +124,7 @@ Leetcode problems solution
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Amit-0905/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Amit-0905/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Amit-0905/Leetcode/tree/master/0287-find-the-duplicate-number) |
