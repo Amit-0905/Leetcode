@@ -100,6 +100,7 @@ Leetcode problems solution
 | [0088-merge-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Amit-0905/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amit-0905/Leetcode/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Amit-0905/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amit-0905/Leetcode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/Amit-0905/Leetcode/tree/master/0260-single-number-iii) |
@@ -121,6 +122,7 @@ Leetcode problems solution
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Amit-0905/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Amit-0905/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Amit-0905/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
