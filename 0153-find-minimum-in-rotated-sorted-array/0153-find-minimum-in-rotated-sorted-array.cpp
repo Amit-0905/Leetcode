@@ -1,26 +1,19 @@
 class Solution {
 public:
-    int findMin(vector<int>& nums) {
-        int start=0;
-        int end=nums.size()-1;
-        while(start<=end){
-            int mid=start+(end-start)/2;
-            if(start==end){
-                return nums[start];
-            }
-            if(mid+1<=end && nums[mid]>nums[mid+1]){
-                return nums[mid+1];
-            }
-            else if(mid-1>=start && nums[mid]<nums[mid-1]){
-                return nums[mid];
-            }
-            else if(nums[mid]<nums[end]){
-                end=mid;
-            }
-            else{
-                start=mid+1;
-            }
+    int find_pivot(vector<int>& nums){
+        int start =0;
+        int end = nums.size()-1;
+        while(start<end){
+            int mid = start + (end-start)/2;
+            if(nums[mid]>=nums[0]) start=mid+1;
+            else end = mid;
         }
-        return -1;
+        return start;
+    }
+
+    int findMin(vector<int>& nums) {
+        int pivot = find_pivot(nums);
+        if(nums[0]>=nums[pivot]) return nums[pivot];
+        else return nums[0];
     }
 };
