@@ -1,6 +1,7 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
+        // o(n) time complexity and o(n) space complexity
         // int n=nums.size();
         // k %= n;
         // if(nums.size()<=k || k==0){
@@ -17,6 +18,7 @@ public:
         //     nums[i]=move[i];
         // }
 
+        // o(n) time complexity and o(1) space complexity
         int n = nums.size();  
         if (n == 0) return;
         k %= n;  
