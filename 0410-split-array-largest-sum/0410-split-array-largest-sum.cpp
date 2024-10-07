@@ -17,15 +17,16 @@ public:
         }
         return true;
     }
-
+    // here start is to find tthe max in nums
+    // and end is the sum of all the values
     int splitArray(vector<int>& nums, int k) {
         int start = 0;
-        int sum=0;
+        int end=0;
         int ans = 0;
         for(int i=0;i<nums.size();i++){
-            sum +=nums[i];
+            start = max(start,nums[i]);
+            end +=nums[i];
         }
-        int end = sum;
         while(start<=end){
             int mid = start + (end-start)/2;
             if(isPossible(nums,mid,k)){
