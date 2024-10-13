@@ -29,6 +29,7 @@ public:
         int start=0;
         int end = -1;
         for(int i=0;i<bloomDay.size();i++){
+            start = min(start,bloomDay[i]);
             end = max(end,bloomDay[i]);
         }
         int ans=-1;
