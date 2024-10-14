@@ -37,6 +37,7 @@ Leetcode problems solution
 | [0172-factorial-trailing-zeroes](https://github.com/Amit-0905/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Amit-0905/Leetcode/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/Amit-0905/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Amit-0905/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Leetcode problems solution
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amit-0905/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Amit-0905/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Amit-0905/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/Amit-0905/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Leetcode problems solution
 | [0287-find-the-duplicate-number](https://github.com/Amit-0905/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Amit-0905/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Amit-0905/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Amit-0905/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Amit-0905/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Amit-0905/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amit-0905/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
