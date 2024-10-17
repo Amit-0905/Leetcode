@@ -123,6 +123,7 @@ Leetcode problems solution
 | [0792-binary-search](https://github.com/Amit-0905/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Amit-0905/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Amit-0905/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amit-0905/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amit-0905/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
@@ -157,6 +158,7 @@ Leetcode problems solution
 | [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amit-0905/Leetcode/tree/master/0169-majority-element) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amit-0905/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -185,4 +187,8 @@ Leetcode problems solution
 | ------- |
 | [0278-first-bad-version](https://github.com/Amit-0905/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Amit-0905/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amit-0905/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
