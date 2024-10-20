@@ -88,6 +88,7 @@ Leetcode problems solution
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Amit-0905/Leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Amit-0905/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Amit-0905/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amit-0905/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Amit-0905/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -103,6 +104,7 @@ Leetcode problems solution
 | [0033-search-in-rotated-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Amit-0905/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Amit-0905/Leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Amit-0905/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Amit-0905/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
