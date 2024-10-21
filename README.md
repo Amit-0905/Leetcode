@@ -51,11 +51,13 @@ Leetcode problems solution
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amit-0905/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Amit-0905/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Amit-0905/Leetcode/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/Amit-0905/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Amit-0905/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Amit-0905/Leetcode/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/Amit-0905/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Recursion
 |  |
@@ -105,6 +107,7 @@ Leetcode problems solution
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amit-0905/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Amit-0905/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Amit-0905/Leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Amit-0905/Leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Amit-0905/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Amit-0905/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Amit-0905/Leetcode/tree/master/0075-sort-colors) |
