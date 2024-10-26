@@ -137,6 +137,7 @@ Leetcode problems solution
 | [1319-unique-number-of-occurrences](https://github.com/Amit-0905/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amit-0905/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amit-0905/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Amit-0905/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2551-apply-operations-to-an-array](https://github.com/Amit-0905/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
