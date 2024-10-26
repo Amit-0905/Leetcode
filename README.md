@@ -39,6 +39,7 @@ Leetcode problems solution
 | [0189-rotate-array](https://github.com/Amit-0905/Leetcode/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/Amit-0905/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Amit-0905/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1031-add-to-array-form-of-integer](https://github.com/Amit-0905/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Leetcode problems solution
 | [0724-find-pivot-index](https://github.com/Amit-0905/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Amit-0905/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Amit-0905/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/Amit-0905/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1319-unique-number-of-occurrences](https://github.com/Amit-0905/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amit-0905/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amit-0905/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
