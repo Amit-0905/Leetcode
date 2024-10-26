@@ -88,6 +88,7 @@ Leetcode problems solution
 | [0283-move-zeroes](https://github.com/Amit-0905/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Amit-0905/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Amit-0905/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [2551-apply-operations-to-an-array](https://github.com/Amit-0905/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Leetcode problems solution
 | [1319-unique-number-of-occurrences](https://github.com/Amit-0905/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amit-0905/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amit-0905/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2551-apply-operations-to-an-array](https://github.com/Amit-0905/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Leetcode problems solution
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amit-0905/Leetcode/tree/master/0054-spiral-matrix) |
+| [2551-apply-operations-to-an-array](https://github.com/Amit-0905/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
