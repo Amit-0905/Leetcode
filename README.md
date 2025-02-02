@@ -48,6 +48,7 @@ Leetcode problems solution
 | [0014-longest-common-prefix](https://github.com/Amit-0905/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/Amit-0905/Leetcode/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Amit-0905/Leetcode/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/Amit-0905/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Leetcode problems solution
 | [0283-move-zeroes](https://github.com/Amit-0905/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Amit-0905/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Amit-0905/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1894-merge-strings-alternately](https://github.com/Amit-0905/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/Amit-0905/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
